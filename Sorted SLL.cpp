@@ -1,8 +1,3 @@
-/*  SHIVAM GUPTA
-	BSC.(HON.) COMPUTER SCIENCE
-	ROLL NO: 19569
-	PROGRAM TO EXECUTE SORTED SINGLE LINKED LIST. 
-*/
 
 #include<iostream>
 using namespace std;
