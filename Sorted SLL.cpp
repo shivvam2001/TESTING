@@ -29,7 +29,7 @@ class SSLLNode
 };
 
 template <class T>
-class SSLList
+class SSLList //This is the list
 {
 	private:
 
