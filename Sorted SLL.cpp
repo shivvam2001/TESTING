@@ -8,7 +8,7 @@
 using namespace std;
 
 template <class T>
-class SSLLNode
+class SSLLNode //This is the node
 {
 	public:
 
