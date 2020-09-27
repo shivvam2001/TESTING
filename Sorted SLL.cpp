@@ -24,7 +24,7 @@ class SSLLNode //This is the node
 };
 
 template <class T>
-class SSLList
+class SSLList //This is the list
 {
 	private:
 
