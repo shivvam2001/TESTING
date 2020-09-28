@@ -120,7 +120,7 @@ class SSLList //This is the list
 			return -2;
 		}
 
-		//DELETE ELEMENT FROM THE LIST
+		/*//DELETE ELEMENT FROM THE LIST
 		int delete(T element)
 		{
 			//IF LIST IS EMPTY
@@ -132,7 +132,7 @@ class SSLList //This is the list
 
 
 
-		}
+		}*/
 		
 };
 
@@ -147,7 +147,7 @@ void func(SSLList <X> &L1, X element)
 			<<"\n (1) Insert an Element in List"
 			<<"\n (2) Traverse"
 			<<"\n (3) Searching"
-			<<"\n (4) Delete"
+			<<"\n (4) Delete(not available)"
 			<<"\n (5) Exit"
 			<<"\n\n Enter Choice: ";
 		cin >> ch;
