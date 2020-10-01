@@ -7,8 +7,8 @@ class SSLLNode //This is the node
 {
 	public:
 
-		T info;
-		SSLLNode *next;
+		T info; //information	
+		SSLLNode *next; //address of next
 
 		SSLLNode()
 		{
