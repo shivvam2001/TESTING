@@ -96,7 +96,7 @@ class SSLList //This is the list
 		}
 
 		//SEARCHING AN ELEMENT IN THE LIST
-		int search(int element)
+		int search(int element) //for searching the list
 		{
 			//IF LIST IS EMPTY
 			if(head == NULL)
