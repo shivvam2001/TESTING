@@ -1,2 +1,2 @@
 # TESTING
-This folder contains SLL Linked List
+This file contains the program for SLL Linked List
