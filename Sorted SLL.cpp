@@ -85,7 +85,7 @@ class SSLList //This is the list
 		}
 
 		//DISPLAY THE LIST
-		void traverse()
+		void traverse() //for traversing the list
 		{
 			SSLLNode <T>*temp = head;
 			while(temp != NULL)
